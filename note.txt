@@ -1,0 +1,1 @@
+ <App />:- this is a self closing tags
